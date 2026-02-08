@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey, I'm Bikram Roy Choudhury:
 💻 I'm currently working on Java full-stack projects using Spring Boot, RESTful APIs, and improving my DSA skills.<br><br>🤝 I'm looking to collaborate on backend development, API-based applications, and projects involving Java, Spring Boot, or AI integration.<br><br>🛠️ I'm looking for help with scalable system architecture, backend optimization, and database performance.<br><br>📚 I'm currently learning Spring Framework, REST API best practices, SQL/Database management, and advanced problem-solving.<br><br>💬 Ask me about Java, Spring Boot, APIs, DSA, debugging logic, and how to break down complex problems.<br><br>🎯 Fun fact I sometimes debug by explaining my code like I'm hosting a tech podcast — and it surprisingly works.
 
 
