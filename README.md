@@ -10,11 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biiikrammm&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biiikrammm&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biiikrammm&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biiikrammm&theme=radical&utcOffset=5.5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biiikrammm&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biiikrammm&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biiikrammm&theme=radical&utcOffset=5.5)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=biiikrammm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
