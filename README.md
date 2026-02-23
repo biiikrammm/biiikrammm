@@ -92,9 +92,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=biiikrammm&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biiikrammm&theme=algolia&no-frame=true&margin-w=10&row=1" />
 </p>
-
 <br>
 
 ### 🔝 Top Contributed Repo
@@ -104,6 +103,11 @@
 
 
 
+<br>
+
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=biiikrammm&icon=0&color=0" />
+  <b>Profile Visits</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=biiikrammm&label=Visitors&color=7a5cff&style=for-the-badge" />
 </p>
+
+<br>
