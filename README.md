@@ -6,7 +6,7 @@
 💬 Ask me about Java, Spring Boot, APIs, DSA, debugging logic, and how to break down complex problems.<br><br>
 🎯 Fun fact I sometimes debug by explaining my code like I'm hosting a tech podcast — and it surprisingly works.
 
-<br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__.bkr.xmm/)
@@ -14,7 +14,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/biiikrammm_)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikram.rc200615@gmail.com)
 
-<br><br>
+
 
 # 💻 Tech Stack
 
@@ -73,7 +73,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-<br><br>
+
 
 # 📊 GitHub Stats
 
@@ -87,21 +87,21 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biiikrammm&theme=radical&utcOffset=5.5" />
 </p>
 
-<br><br>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=biiikrammm&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-<br><br>
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=biiikrammm&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<br><br>
+
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=biiikrammm&icon=0&color=0" />
